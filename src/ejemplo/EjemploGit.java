@@ -3,8 +3,10 @@ package ejemplo;
 public class EjemploGit {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Más moficicaciones
+		int val = 0;
 		System.out.println("Hola mundo!!");
+		
 	}
 
 }
