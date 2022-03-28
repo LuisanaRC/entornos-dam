@@ -10,6 +10,7 @@ public class EjemploGit {
 		int val = 0;
 		System.out.println("Hola mundo!!"+val);
 		System.out.println("Adios mundo"+val);
+		System.out.println("Hasta luego mundo"+val);
 		
 	}
 
