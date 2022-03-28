@@ -9,6 +9,7 @@ public class EjemploGit {
 		File f = new File("datos.txt");
 		int val = 0;
 		System.out.println("Hola mundo!!"+val);
+		System.out.println("Adios mundo"+val);
 		
 	}
 
